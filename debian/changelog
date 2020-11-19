@@ -1,0 +1,10 @@
+ros-foxy-vrxperience-msgs (1.0.0-1focal) focal; urgency=high
+
+  * Merge pull request #2 <https://github.com/autowarefoundation/ansys-vrxperience-ros2/issues/2> from autowarefoundation/linting-fixes
+    Linting fixes
+  * Initial commit.
+  * Contributors: Adam Gotlib, Joshua Whitley
+
+ -- Adam Gotlib <gotlib.adam+dev@gmail.com>  Thu, 19 Nov 2020 06:00:00 -0000
+
+
